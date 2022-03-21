@@ -1,0 +1,16 @@
+* {
+	margin: 0;
+}
+
+:root {
+	--labels-size: 1rem;
+	--primary-color: aliceblue;
+	--secondary-color: darkblue;
+}
+
+.my-name {
+	background-color: var(--primary-color);
+	color: var(--secondary-color);
+	font-size: 2em;
+	text-align: left;
+}
