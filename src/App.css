@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Shippori+Antique+B1&display=swap');
+
 .App {
 	text-align: center;
 	background: radial-gradient(
@@ -6,11 +8,12 @@
 		rgba(49, 49, 151, 1) 35%,
 		rgba(0, 212, 255, 1) 100%
 	);
+	font-family: 'Shippori Antique B1', Arial, Helvetica, sans-serif;
 }
 
 :root {
 	--labels-size: 1rem;
-	--primary-color: aliceblue;
+	--primary-color: hsl(208, 100%, 97%);
 	--secondary-color: darkblue;
 }
 
